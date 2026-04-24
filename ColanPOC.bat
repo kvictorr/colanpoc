@@ -1,0 +1,1 @@
+python -m streamlit run gpt_gui.py
