@@ -1,5 +1,5 @@
 This project is a POC for Document Intelligent system.
-It contains a single folder having source files, batch script to run the UI and requirement.txt to install python dependencies.
+It contains a single folder having source files, batch script to run the UI and requirements.txt to install python dependencies.
 Perform the following to run the application.
 1. Extract all the files in a folder.
 2. install Python latest version in your computer.
